@@ -6,5 +6,4 @@ public class BDDNode {
     public BDDNode(String variable) {
         this.variable = variable;
     }
-}
-
+}//

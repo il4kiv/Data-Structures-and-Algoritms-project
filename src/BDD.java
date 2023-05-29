@@ -206,6 +206,7 @@ public class BDD {
             count_of_reduced_nodes = 0;
             lReduction.clear();
         }
+        //
 
         int min = arrayNodes[0];
         int index=0;

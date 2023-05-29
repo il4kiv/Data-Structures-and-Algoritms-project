@@ -10,6 +10,6 @@ public class Generate {
         String formatString = "%" + length + "s";
         for (int i = 0; i < last_number; i++) {
             binary[i] = String.format(formatString, Integer.toBinaryString(i & 0xFF)).replace(' ', '0');
-        }
+        }//
     }
 }
